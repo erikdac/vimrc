@@ -1,2 +1,2 @@
 # vimrc
-My personal configuration for vim.
+The vim configuration for MyrStacken competitive programming team. 
